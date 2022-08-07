@@ -1,0 +1,14 @@
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\bin\Debug\netcoreapp3.1\AdaptItAcademy.DataAccess.dll
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\bin\Debug\netcoreapp3.1\AdaptItAcademy.Service.dll
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\obj\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\obj\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\obj\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.AssemblyInfo.cs
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\bin\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.deps.json
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\bin\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.dll
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\bin\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.pdb
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\bin\Debug\netcoreapp3.1\AdaptItAcademy.DataAccess.pdb
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\bin\Debug\netcoreapp3.1\AdaptItAcademy.Service.pdb
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\obj\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\obj\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.csproj.CopyComplete
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\obj\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.dll
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.BusinessLogic\obj\Debug\netcoreapp3.1\AdaptItAcademy.BusinessLogic.pdb

@@ -1,0 +1,9 @@
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\bin\Debug\netcoreapp3.1\AdaptItAcademy.Service.deps.json
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\bin\Debug\netcoreapp3.1\AdaptItAcademy.Service.dll
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\bin\Debug\netcoreapp3.1\AdaptItAcademy.Service.pdb
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\obj\Debug\netcoreapp3.1\AdaptItAcademy.Service.AssemblyInfoInputs.cache
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\obj\Debug\netcoreapp3.1\AdaptItAcademy.Service.AssemblyInfo.cs
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\obj\Debug\netcoreapp3.1\AdaptItAcademy.Service.csproj.CoreCompileInputs.cache
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\obj\Debug\netcoreapp3.1\AdaptItAcademy.Service.dll
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\obj\Debug\netcoreapp3.1\AdaptItAcademy.Service.pdb
+C:\Users\NDIVHUWO\source\repos\AdaptItAcademy\AdaptItAcademy.Service\obj\Debug\netcoreapp3.1\AdaptItAcademy.Service.csprojAssemblyReference.cache
