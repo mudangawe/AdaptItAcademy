@@ -7,6 +7,8 @@ using AdaptItAcademy.Service.Interface;
 using AutoMapper;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace AdaptItAcademy.BusinessLogic
@@ -39,18 +41,8 @@ namespace AdaptItAcademy.BusinessLogic
         public async Task<DelegateFeedBack> CreateCourse(CourseDto courseDto)
         {
             var delegateFeedBack = new DelegateFeedBack();
-            if(!validation.IsLettersOnly(courseDto.Name))
-            {
-                delegateFeedBack.IsSuccess = false;
-                delegateFeedBack.Message = "Course Must Contains Letter and Numbers Only";
-                return delegateFeedBack;
-            }
-            if (validation.IsNotHarmfulToDatabase(courseDto.Description))
-            {
-                delegateFeedBack.IsSuccess = false;
-                delegateFeedBack.Message = "Special Character are allowed";
-                return delegateFeedBack;
-            }
+         
+            var result = new List<ValidationResult>();
             var course = mapper.Map<Course>(courseDto);
             delegateFeedBack.IsSuccess = await dataAccessCourse.CreateCourse(course);
             delegateFeedBack.Message = delegateFeedBack.IsSuccess ? "Successful added" : "Failed";

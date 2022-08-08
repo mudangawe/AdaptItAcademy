@@ -8,6 +8,6 @@ namespace AdaptItAcademy.Service.Entitty.Dto
     {
         public bool IsSuccess { get; set; }
         public string Message { get; set; }
-        public bool Ref { get; set; }
+        public string Ref { get; set; }
     }
 }

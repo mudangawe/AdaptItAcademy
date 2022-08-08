@@ -55,10 +55,33 @@ namespace AdaptItAcademy.DataAccess
 
                 await InsertCandidateAddress(result, HomeAddressId);
                 await InsertCandidateAddress(result, PostalAddressId);
+                await InsertRegistration(result, candidate.TrainingID);
                 return result > 0;
             }
         }
 
+        public async Task InsertRegistration(int candidateId, int trainingId)
+        {
+            using (var connection = CreateConnection())
+            {
+                string insertQuery = @"INSERT INTO [dbo].[tblRegistration]
+                                       ([TrainingId]
+                                       ,[CandidateId]
+                                       ,[DateAdded])
+                                 VALUES
+                                       (@trainingId
+                                       ,@candidateId
+                                       ,@DateAdded)
+                                        ";
+
+                var result = await connection.ExecuteAsync(insertQuery, new
+                {
+                    candidateId,
+                    trainingId,
+                    DateAdded = DateTime.Now
+                });
+            }
+        }
         public async Task<int> InsertAddress(Address address, Boolean IsPhysicalAddress)
         {
             using (var connection = CreateConnection())

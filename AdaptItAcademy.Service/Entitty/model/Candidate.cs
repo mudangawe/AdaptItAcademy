@@ -13,6 +13,7 @@ namespace AdaptItAcademy.Service.Entitty.model
         public string PhoneNumber { get; set; }
         public dietary Dietary { get; set; }
         public string CompanyName { get; set; }
+        public int TrainingID { get; set; }
         public Address PhysicalAddress { get; set; }
         public Address PostalAddress { get; set; }
     }

@@ -15,5 +15,6 @@ namespace AdaptItAcademy.Service.Entitty.model
         public string CourseCode { get; set; }
         public int Seats { get; set; }
         public int RegistrationCount { get; set; }
+        public int TrainingId { get; set; }
     }
 }
